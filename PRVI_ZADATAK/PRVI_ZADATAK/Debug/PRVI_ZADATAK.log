@@ -1,0 +1,4 @@
+﻿  Prvi.c
+c:\users\lolcrokn\source\repos\strukture repos\prvi_zadatak\prvi_zadatak\prvi.c(36): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\lolcrokn\source\repos\strukture repos\prvi_zadatak\prvi_zadatak\prvi.c(36): note: placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+  PRVI_ZADATAK.vcxproj -> C:\Users\LoLcRoKN\source\repos\strukture repos\PRVI_ZADATAK\Debug\PRVI_ZADATAK.exe
