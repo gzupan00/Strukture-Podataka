@@ -1,0 +1,6 @@
+﻿  DEVETI.c
+C:\Users\Korisnik\source\repos\DEVETI_ZADATAK\DEVETI_ZADATAK\DEVETI.c(71,19): warning C4047: 'return': 'int' differs in levels of indirection from 'position'
+C:\Users\Korisnik\source\repos\DEVETI_ZADATAK\DEVETI_ZADATAK\DEVETI.c(75,45): warning C4047: '=': 'position' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\DEVETI_ZADATAK\DEVETI_ZADATAK\DEVETI.c(78,47): warning C4047: '=': 'position' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\DEVETI_ZADATAK\DEVETI_ZADATAK\DEVETI.c(80,13): warning C4047: 'return': 'int' differs in levels of indirection from 'position'
+  DEVETI_ZADATAK.vcxproj -> C:\Users\Korisnik\source\repos\DEVETI_ZADATAK\Debug\DEVETI_ZADATAK.exe
