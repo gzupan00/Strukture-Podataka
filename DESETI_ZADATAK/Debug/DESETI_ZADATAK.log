@@ -1,0 +1,24 @@
+﻿  deseti.c
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(141,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(218,15): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(233,33): warning C4133: 'function': incompatible types - from 'char [50]' to 'positionCity'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(233,47): warning C4047: 'function': 'positionCity' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(233,35): warning C4024: 'createNewElementCity': different types for formal and actual parameter 2
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(233,49): warning C4020: 'createNewElementCity': too many actual parameters
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(253,17): warning C4047: 'return': 'int' differs in levels of indirection from 'positionCity'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(256,51): warning C4047: '=': 'positionCity' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(259,49): warning C4047: '=': 'positionCity' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(265,50): warning C4047: '=': 'positionCity' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(270,52): warning C4047: '=': 'positionCity' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(275,13): warning C4047: 'return': 'int' differs in levels of indirection from 'positionCity'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(278,32): warning C4028: formal parameter 1 different from declaration
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(278,46): warning C4028: formal parameter 2 different from declaration
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(279,1): warning C4029: declared formal parameter list different from definition
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(289,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(346,54): warning C4047: '=': 'positionCity' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(360,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(365,54): warning C4047: '=': 'positionCity' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(369,52): warning C4047: '=': 'positionCity' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(371,54): warning C4047: '=': 'positionCity' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\DESETI_ZADATAK\DESETI_ZADATAK\deseti.c(374,16): warning C4047: 'return': 'int' differs in levels of indirection from 'positionCity'
+  DESETI_ZADATAK.vcxproj -> C:\Users\Korisnik\source\repos\DESETI_ZADATAK\Debug\DESETI_ZADATAK.exe

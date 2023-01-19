@@ -1,0 +1,2 @@
+madrid 1200000
+barcelona 4500000

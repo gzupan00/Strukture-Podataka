@@ -1,0 +1,3 @@
+hrvatska hrv.txt
+spanjolska spa.txt
+engleska eng.txt

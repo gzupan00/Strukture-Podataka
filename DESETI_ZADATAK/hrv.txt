@@ -1,0 +1,3 @@
+split 170000
+zagreb 800000
+dubrovnik 30000
